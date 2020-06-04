@@ -1,0 +1,26 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "Covid Safety assessment tool",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "covid safe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "covid",
+    "safe"
+  ],
+  "author": "DCO Team",
+  "license": "ISC"
+}
